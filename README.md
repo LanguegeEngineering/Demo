@@ -6,4 +6,4 @@
 4. ... otworzyć pobrany plik .ipynb (File -> Upload notebook).
 5. Powinien otworzyć się notatnik i można pracować.
 6. Po pracy trzeba pobrać dwa pliki (File -> Download .ipynb i .py)
-7. W repozytorium (tutaj) wybrać Upload Files i wrzucić oba te pliki. 
+7. W repozytorium (tutaj) wybrać Upload Files i wrzucić oba te pliki albo przesłać je do mnie na maila (g.wojdyga@uw.edu.pl).
